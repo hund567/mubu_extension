@@ -1,2 +1,4 @@
 # mubu_extension
 mubu/mindnode extension
+基于幕布软件生成的带有附加格式的txt思维导图文件，经过处理后变为json_str，为导入anki做准备
+配合jsmode和anki思维导图模板使用
